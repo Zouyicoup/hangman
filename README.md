@@ -1,1 +1,2 @@
 # hangman
+today is beautiful
